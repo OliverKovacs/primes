@@ -1,0 +1,4 @@
+.ignore
+.clang-tidy
+main
+*.ts.js
